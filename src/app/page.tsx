@@ -22,7 +22,7 @@ export default async function HomePage() {
       {/* SeenPatients will show at the top always */}
 
       {/* Main Dashboard UI */}
-      <DashboardLayout user={user} />
+      <DashboardLayout />
     </div>
   );
 }
