@@ -11,7 +11,7 @@ export async function GET() {
 
   try {
     const patients = await prisma.patient.findMany({
-      where: { userId: session.user.id }, // ✅ only fetch patient's own records
+      where: { userId: session.user.id }, // only fetch patient's own records
       orderBy: { createdAt: "desc" },
     });
 
