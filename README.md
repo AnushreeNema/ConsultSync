@@ -50,11 +50,11 @@ The platform leverages cutting-edge AI (OpenAI, Google Vision) to automate docum
 
 ## 🛠️ Tech Stack
 
-| Category  | Technologies                                    |
-| --------- | ----------------------------------------------- |
-| Frontend  | React, Next.js, TypeScript, Tailwind (optional) |
-| Backend   | Node.js, Express                                |
-| AI/ML     | OpenAI API, Google Cloud Vision API             |
-| Dev Tools | Git, GitHub, Vercel, CI/CD                      |
+| Category  | Technologies                         |
+| --------- | ------------------------------------ |
+| Frontend  | React, Next.js, TypeScript, Tailwind |
+| Backend   | Node.js, Express                     |
+| AI/ML     | OpenAI API, Google Cloud Vision API  |
+| Dev Tools | Git, GitHub, Vercel, CI/CD           |
 
 ---
