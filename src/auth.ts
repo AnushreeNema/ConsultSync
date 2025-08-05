@@ -16,11 +16,5 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
       return session;
     },
   },
-  providers: [
-    Google,
-    GitHub,
-    Resend({
-      from: "anushreenema624@gmail.com",
-    }),
-  ],
+  providers: [Google],
 });
