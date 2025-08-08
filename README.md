@@ -65,10 +65,22 @@ Here are some snapshots of the project in action:
 
 ### 🖥️ UI Preview
 
-## 📸 Screenshots
+### Image 1
 
-<img src="assets/image1.png" width="700"/>
-<img src="assets/image2.png" width="700"/>
-<img src="assets/image3.png" width="700"/>
-<img src="assets/image4.png" width="700"/>
-<img src="assets/image5.png" width="700"/>
+![Image 1](./assets/image1.png)
+
+### Image 2
+
+![Image 2](./assets/image2.png)
+
+### Image 3
+
+![Image 3](./assets/image3.png)
+
+### Image 4
+
+![Image 4](./assets/image4.png)
+
+### Image 5
+
+![Image 5](./assets/image5.png)
