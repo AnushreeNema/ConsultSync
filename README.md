@@ -65,8 +65,10 @@ Here are some snapshots of the project in action:
 
 ### 🖥️ UI Preview
 
-<img src="/image1.png" alt="Screenshot 1" width="700"/>
-<img src="/image2.png" alt="Screenshot 2" width="700"/>
-<img src="/image3.png" alt="Screenshot 3" width="700"/>
-<img src="/image4.png" alt="Screenshot 4" width="700"/>
-<img src="/image5.png" alt="Screenshot 5" width="700"/>
+## 📸 Screenshots
+
+<img src="assets/image1.png" width="700"/>
+<img src="assets/image2.png" width="700"/>
+<img src="assets/image3.png" width="700"/>
+<img src="assets/image4.png" width="700"/>
+<img src="assets/image5.png" width="700"/>
