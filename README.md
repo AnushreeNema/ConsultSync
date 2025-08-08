@@ -58,3 +58,15 @@ The platform leverages cutting-edge AI (OpenAI, Google Vision) to automate docum
 | Dev Tools | Git, GitHub, Vercel, CI/CD           |
 
 ---
+
+## 📸 Screenshots
+
+Here are some snapshots of the project in action:
+
+### 🖥️ UI Preview
+
+<img src="/image1.png" alt="Screenshot 1" width="700"/>
+<img src="/image2.png" alt="Screenshot 2" width="700"/>
+<img src="/image3.png" alt="Screenshot 3" width="700"/>
+<img src="/image4.png" alt="Screenshot 4" width="700"/>
+<img src="/image5.png" alt="Screenshot 5" width="700"/>
