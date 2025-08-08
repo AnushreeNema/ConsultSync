@@ -71,15 +71,15 @@ Here are some snapshots of the project in action:
 
 ### Image 2
 
-![Image 2](./assets/image2.png)
+![Image 2](./src/assets/image2.png)
 
 ### Image 3
 
-![Image 3](./assets/image3.png)
+![Image 3](./src/assets/image3.png)
 
 ### Image 4
 
-![Image 4](./assets/image4.png)
+![Image 4](./src/assets/image4.png)
 
 ### Image 5
 
