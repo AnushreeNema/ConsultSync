@@ -67,7 +67,7 @@ Here are some snapshots of the project in action:
 
 ### Image 1
 
-![Image 1](./assets/image1.png)
+![Image 1](./src/assets/image1.png)
 
 ### Image 2
 
@@ -83,4 +83,4 @@ Here are some snapshots of the project in action:
 
 ### Image 5
 
-![Image 5](./assets/image5.png)
+![Image 5](./src/assets/image5.png)
